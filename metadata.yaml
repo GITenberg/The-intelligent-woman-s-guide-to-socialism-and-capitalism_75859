@@ -1,0 +1,48 @@
+_repo: The-intelligent-woman-s-guide-to-socialism-and-capitalism_75859
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kennington, Eric
+    birthdate: 1888
+    deathdate: 1960
+    gutenberg_agent_id: '57312'
+    url: http://www.gutenberg.org/2009/agents/57312
+    wikipedia: https://en.wikipedia.org/wiki/Eric_Kennington
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, George Bernard
+    - Shaw, Bernhard
+    - Shaw, G. Bernard (George Bernard)
+    - Bassetto, Corno di
+    - Shaw, G. B. (George Bernard)
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: https://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: 'Wikipedia page about this book: https://en.wikipedia.org/wiki/The_Intelligent_Woman%27s_Guide_to_Socialism_and_Capitalism'
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75859'
+  lccn: '28014214'
+language: en
+pgterms:marc904: https://archive.org/details/intelligentwoman00shaw
+pgterms:marc905: 20240125074536shaw
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Alan, deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bBrentano''s Publishers, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcsh 'Capitalism'
+- !lcc 'HX'
+- GITenberg
+title: The intelligent woman's guide to socialism and capitalism
+url: http://www.gutenberg.org/ebooks/75859
