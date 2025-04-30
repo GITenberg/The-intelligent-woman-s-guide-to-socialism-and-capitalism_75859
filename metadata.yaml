@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '57312'
     url: http://www.gutenberg.org/2009/agents/57312
     wikipedia: https://en.wikipedia.org/wiki/Eric_Kennington
+covers:
+- cover_type: archival
+  image_path: 75859-h/images/cover.jpg
 creator:
   author:
     agent_name: Shaw, Bernard
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/467
     wikipedia: https://en.wikipedia.org/wiki/George_Bernard_Shaw
 description: 'Wikipedia page about this book: https://en.wikipedia.org/wiki/The_Intelligent_Woman%27s_Guide_to_Socialism_and_Capitalism'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75859#The-intelligent-woman-s-guide-to-socialism-and-capitalism
 gutenberg_issued: '2025-04-14'
 gutenberg_type: Text
 identifiers:
